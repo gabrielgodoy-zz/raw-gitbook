@@ -5,9 +5,6 @@
   "styles": {
     "website": "./assets/main.css"
   },
-  "structure": {
-    "readme": "INTRODUCTION.md"
-  },
   "plugins": [
     "theme-api",
     "prism",
@@ -23,4 +20,5 @@
       "css": ["prismjs/themes/prism-tomorrow.css"]
     }
   }
+
 }

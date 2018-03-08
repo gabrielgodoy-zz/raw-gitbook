@@ -6,7 +6,7 @@
     "website": "./assets/main.css"
   },
   "structure": {
-    "readme": "INTRODUCTION.md"
+    "readme": "assunto/README.md"
   },
   "plugins": [
     "theme-api",
