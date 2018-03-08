@@ -79,7 +79,7 @@ li> code {
 }
 
 .token.comment, .token.block-comment, .token.prolog, .token.doctype, .token.cdata {
-  color: #888 !important;
+  color: #555 !important;
 }
 
 .markdown-section table td {
