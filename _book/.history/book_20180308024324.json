@@ -1,0 +1,27 @@
+{
+  "title": "Título do Gitbook",
+  "description": "Anotações sobre algum assunto",
+  "author": "Gabriel Godoy",
+  "styles": {
+    "website": "./assets/main.css"
+  },
+  "language": "pt-br",
+  "structure": {
+    "readme": "INTRODUCTION.md"
+  },
+  "plugins": [
+    "theme-api",
+    "prism",
+    "-highlight",
+    "hints",
+    "expandable-chapters"
+  ],
+  "pluginsConfig": {
+    "theme-api": {
+      "theme": "dark"
+    },
+    "prism": {
+      "css": ["prismjs/themes/prism-tomorrow.css"]
+    }
+  }
+}
