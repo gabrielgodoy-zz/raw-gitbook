@@ -83,7 +83,7 @@ li> code {
 }
 
 .markdown-section table td {
-    padding: 6px 13px !important;
+    padding: 6px 13px;
 }
 
 .markdown-section hr {
